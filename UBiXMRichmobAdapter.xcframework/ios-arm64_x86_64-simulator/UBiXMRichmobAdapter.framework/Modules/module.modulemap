@@ -1,0 +1,6 @@
+framework module UBiXMRichmobAdapter {
+  umbrella header "UBiXMRichmobAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
